@@ -14,7 +14,6 @@ This repository presents a complete end-to-end workflow that addresses these cha
 - Principal Component Analysis (PCA)
 - Random Forest classification
 - Majority filtering
-- Morphological refinement
 - GeoTIFF export
 - Accuracy assessment
 - Publication-quality visualization
@@ -68,9 +67,6 @@ Full-Scene Classification
         │
         ▼
 Majority Filtering
-        │
-        ▼
-Morphological Refinement
         │
         ▼
 GeoTIFF Export
